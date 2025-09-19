@@ -52,5 +52,5 @@ pip install -r requirements.txt
 
 py -m streamlit run app.py
 
-----------
+----
 Your app will be available at 👉 **http://localhost:8501**
