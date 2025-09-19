@@ -33,6 +33,7 @@ This project allows users to scrape websites, upload different file formats (**P
 **1️⃣ Clone the Repository**
 
 git clone https://github.com/your-username/Web-Scraping-Data-Analysis.git
+
 cd Web-Scraping-Data-Analysis
 
 **2️⃣ (Optional) Create Virtual Environment**
