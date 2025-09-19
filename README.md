@@ -39,7 +39,9 @@ cd Web-Scraping-Data-Analysis
 **2️⃣ (Optional) Create Virtual Environment**
 
 python -m venv venv
+
 source venv/bin/activate     # Mac/Linux
+
 venv\Scripts\activate        # Windows
 
 **3️⃣ Install Dependencies**
