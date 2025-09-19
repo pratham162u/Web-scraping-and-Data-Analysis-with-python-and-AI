@@ -1,0 +1,17 @@
+streamlit
+beautifulsoup4
+requests
+pandas
+PyMuPDF
+pdfminer.six
+python-docx
+openpyxl
+pillow
+pytesseract
+nltk
+spacy
+transformers
+textblob
+matplotlib
+plotly
+wordcloud
