@@ -52,13 +52,13 @@ Follow these steps to install and run the application/extension:
      ```
 
 3. 3️⃣ **Install Dependencies**  
-   ```bash
-   pip install -r requirements.txt
+     ```bash
+     pip install -r requirements.txt
 
 
 4. 4️⃣ **Run the Application**
-   ```bash
-   py -m streamlit run app.py
+     ```bash
+     py -m streamlit run app.py
 
 
 ----
