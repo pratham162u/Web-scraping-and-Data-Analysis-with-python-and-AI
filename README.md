@@ -30,27 +30,35 @@ This project allows users to scrape websites, upload different file formats (**P
 
 ## ⚙️ Installation & Setup
 
-**1️⃣ Clone the Repository**
+Follow these steps to install and run the application/extension:
 
-git clone https://github.com/your-username/Web-Scraping-Data-Analysis.git
+1. 1️⃣ **Clone the Repository**  
+   - Open terminal/command prompt and run:  
+     ```bash
+     git clone https://github.com/pratham162u/Web-Scraping-Data-Analysis.git
+     cd Web-Scraping-Data-Analysis
+     ```
 
-cd Web-Scraping-Data-Analysis
+2. 2️⃣ **(Optional) Create Virtual Environment**  
+   - For Mac/Linux:  
+     ```bash
+     python -m venv venv
+     source venv/bin/activate
+     ```  
+   - For Windows:  
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
 
-**2️⃣ (Optional) Create Virtual Environment**
+3. 3️⃣ **Install Dependencies**  
+   ```bash
+   pip install -r requirements.txt
 
-python -m venv venv
 
-source venv/bin/activate     # Mac/Linux
+4. 4️⃣ **Run the Application**
 
-venv\Scripts\activate        # Windows
-
-**3️⃣ Install Dependencies**
-
-pip install -r requirements.txt
-
-**4️⃣ Run the Application**
-
-py -m streamlit run app.py
+   py -m streamlit run app.py
 
 ----
 Your app will be available at 👉 **http://localhost:8501**
